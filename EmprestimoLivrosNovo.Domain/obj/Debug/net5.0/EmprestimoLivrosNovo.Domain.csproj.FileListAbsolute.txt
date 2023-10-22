@@ -1,0 +1,12 @@
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\bin\Debug\net5.0\EmprestimoLivrosNovo.Domain.deps.json
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\bin\Debug\net5.0\EmprestimoLivrosNovo.Domain.dll
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\bin\Debug\net5.0\ref\EmprestimoLivrosNovo.Domain.dll
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\bin\Debug\net5.0\EmprestimoLivrosNovo.Domain.pdb
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\obj\Debug\net5.0\EmprestimoLivrosNovo.Domain.csproj.AssemblyReference.cache
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\obj\Debug\net5.0\EmprestimoLivrosNovo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\obj\Debug\net5.0\EmprestimoLivrosNovo.Domain.AssemblyInfoInputs.cache
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\obj\Debug\net5.0\EmprestimoLivrosNovo.Domain.AssemblyInfo.cs
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\obj\Debug\net5.0\EmprestimoLivrosNovo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\obj\Debug\net5.0\EmprestimoLivrosNovo.Domain.dll
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\obj\Debug\net5.0\ref\EmprestimoLivrosNovo.Domain.dll
+C:\Users\cicer\source\repos\EmprestimoLivrosNovo\EmprestimoLivrosNovo.Domain\obj\Debug\net5.0\EmprestimoLivrosNovo.Domain.pdb

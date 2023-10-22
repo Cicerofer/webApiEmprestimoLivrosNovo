@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmprestimoLivrosNovo.Domain\EmprestimoLivrosNovo.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Context\" />
+    <Folder Include="Migrations\" />
+    <Folder Include="EntitiesConfiguration\" />
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
+</Project>
